@@ -1,0 +1,3 @@
+moduleName = file-module
+moduleVersion = 1.0
+extensionClasses = stevemaystermkdir.FileExtension
